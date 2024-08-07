@@ -2,7 +2,7 @@ using DTT.PublishingTools;
 using DTT.Utils.EditorUtilities;
 using UnityEditor;
 
-namespace DTT.Hangman.Editor
+namespace Enneas.Hangman.DTT.Hangman.Editor
 {
     /// <summary>
     /// Draws the custom editor for the hangman settings.

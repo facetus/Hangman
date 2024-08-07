@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace DTT.Hangman
+namespace Enneas.Hangman.DTT.Hangman
 {
     /// <summary>
     /// Represents a custom yield instruction that waits for the hangman

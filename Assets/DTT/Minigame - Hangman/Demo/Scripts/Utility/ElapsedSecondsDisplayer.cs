@@ -2,7 +2,7 @@ using System;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace DTT.Hangman.Demo
+namespace Enneas.Hangman.DTT.Hangman.Demo
 {
     /// <summary>
     /// Displays the elapsed amount of seconds for the hangman game service.

@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace DTT.Hangman
+namespace Enneas.Hangman.DTT.Hangman
 {
     /// <summary>
     /// Provides extension methods for IEnumerable{T} implementations.

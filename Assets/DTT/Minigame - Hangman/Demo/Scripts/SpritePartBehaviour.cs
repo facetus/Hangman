@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace DTT.Hangman.Demo
+namespace Enneas.Hangman.DTT.Hangman.Demo
 {
     /// <summary>
     /// Represents a scenario part displaying a sprite which can be scaled out to unlock itself.

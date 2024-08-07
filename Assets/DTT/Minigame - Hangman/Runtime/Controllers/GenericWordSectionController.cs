@@ -1,4 +1,4 @@
-namespace DTT.Hangman
+namespace Enneas.Hangman.DTT.Hangman
 {
     /// <summary>
     /// Represents a behaviour controller a phrase section with a given type of phrase displayer.

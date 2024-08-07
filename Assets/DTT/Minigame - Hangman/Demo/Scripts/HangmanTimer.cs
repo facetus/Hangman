@@ -1,7 +1,6 @@
 using DTT.MinigameBase.Timer;
 using UnityEngine;
-
-namespace DTT.Hangman.Demo
+namespace Enneas.Hangman.DTT.Hangman.Demo
 {
     /// <summary>
     /// The timer used for the hangman minigame.

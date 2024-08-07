@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace DTT.Hangman
+namespace Enneas.Hangman.DTT.Hangman
 {
     /// <summary>
     /// The settings usable for a hangman game.

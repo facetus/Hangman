@@ -1,4 +1,4 @@
-namespace DTT.Hangman
+namespace Enneas.Hangman.DTT.Hangman
 {
     /// <summary>
     /// Provides interaction with an object that is part of the gameplay of a hangman game.

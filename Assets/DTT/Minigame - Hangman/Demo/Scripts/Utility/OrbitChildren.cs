@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace DTT.Hangman.Demo
+namespace Enneas.Hangman.DTT.Hangman.Demo
 {
     /// <summary>
     /// A behaviour that is executed in editor and playmode to orbit children with a given

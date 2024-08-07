@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace DTT.Hangman
+namespace Enneas.Hangman.DTT.Hangman
 {
     /// <summary>
     /// Represents the behaviour, that is part of a larger scenario.

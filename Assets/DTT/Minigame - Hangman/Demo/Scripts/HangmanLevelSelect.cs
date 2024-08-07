@@ -3,7 +3,7 @@ using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.Serialization;
 
-namespace DTT.Hangman.Demo
+namespace Enneas.Hangman.DTT.Hangman.Demo
 {
     /// <summary>
     /// Handles level select for the hangman minigame.

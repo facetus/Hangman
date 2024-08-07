@@ -1,7 +1,7 @@
 using DTT.PublishingTools;
 using UnityEditor;
 
-namespace DTT.Hangman.Editor
+namespace Enneas.Hangman.DTT.Hangman.Editor
 {
     /// <summary>
     /// Draws the custom inspector for the phrase list.

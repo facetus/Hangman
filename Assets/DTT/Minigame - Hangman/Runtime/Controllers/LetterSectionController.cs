@@ -8,7 +8,7 @@ using DTT.MinigameBase.LevelSelect;
 using Unity.VisualScripting;
 using UnityEngine.UI;
 
-namespace DTT.Hangman
+namespace Enneas.Hangman.DTT.Hangman
 {
     /// <summary>
     /// Represents a behaviour that controllers a section of letters for the user to choose from.

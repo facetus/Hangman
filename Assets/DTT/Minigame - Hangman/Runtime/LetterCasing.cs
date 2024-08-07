@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace DTT.Hangman
+namespace Enneas.Hangman.DTT.Hangman
 {
     /// <summary>
     /// Represents the casing to use for letters in the game.

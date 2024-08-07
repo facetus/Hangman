@@ -1,4 +1,4 @@
-namespace DTT.Hangman
+namespace Enneas.Hangman.DTT.Hangman
 {
     /// <summary>
     /// Represents the result of a hangman game.

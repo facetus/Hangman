@@ -7,7 +7,7 @@ using UnityEngine;
 using Debug = UnityEngine.Debug;
 using Random = UnityEngine.Random;
 
-namespace DTT.Hangman
+namespace Enneas.Hangman.DTT.Hangman
 {
    /// <summary>
    /// Provides the core gameplay services usable for a hangman game.

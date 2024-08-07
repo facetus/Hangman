@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace DTT.Hangman.Demo
+namespace Enneas.Hangman.DTT.Hangman.Demo
 {
     /// <summary>
     /// A composite phrase displayer used for the demo scene to display the phrase parts

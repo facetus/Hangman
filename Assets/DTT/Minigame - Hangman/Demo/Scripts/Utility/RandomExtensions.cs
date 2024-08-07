@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace DTT.Hangman.Demo
+namespace Enneas.Hangman.DTT.Hangman.Demo
 {
     /// <summary>
     /// Provides methods for random operations used in the hangman minigame.

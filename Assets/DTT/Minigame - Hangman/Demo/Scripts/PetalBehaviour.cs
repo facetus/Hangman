@@ -1,7 +1,7 @@
 using System.Collections;
 using UnityEngine;
 
-namespace DTT.Hangman.Demo
+namespace Enneas.Hangman.DTT.Hangman.Demo
 {
     /// <summary>
     /// Represents the behaviour of a petal part of a sunflower.

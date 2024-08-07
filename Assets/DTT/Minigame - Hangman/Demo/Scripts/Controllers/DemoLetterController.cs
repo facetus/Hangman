@@ -3,7 +3,7 @@ using UnityEngine;
 using UnityEngine.UI;
 
 //namespace DTT.Hangman.Demo
-namespace DTT.Hangman
+namespace Enneas.Hangman.DTT.Hangman
 {
     /// <summary>
     /// A behaviour controlling the letters in the demo scene.

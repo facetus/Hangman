@@ -2,19 +2,23 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class LevelSelectContainer : MonoBehaviour
+namespace Enneas.Hangman
 {
-    public static GameObject tsiggelia;
-    public static GameObject rodesia;
-
-    public static void DisplayTsigellia()
+    public class LevelSelectContainer : MonoBehaviour
     {
-        tsiggelia.SetActive(true);
+        public static GameObject tsiggelia;
+        public static GameObject rodesia;
+
+        public static void DisplayTsigellia()
+        {
+            tsiggelia.SetActive(true);
+        }
+
+        public static void DisplayRodesia()
+        {
+            rodesia.SetActive(true);
+
+        }
     }
 
-    public static void DisplayRodesia()
-    {
-        rodesia.SetActive(true);
-
-    }
 }

@@ -3,7 +3,7 @@
 using DTT.PublishingTools;
 using UnityEditor;
 
-namespace DTT.Hangman.Editor
+namespace Enneas.Hangman.DTT.Hangman.Editor
 {
     /// <summary>
     /// Class that handles opening the editor window for the hangman minigame package.

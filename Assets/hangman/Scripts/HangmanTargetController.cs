@@ -5,13 +5,13 @@ using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 using DTT.MinigameBase.LevelSelect;
 using Unity.VisualScripting;
-using DTT.Hangman.Demo;
+using Enneas.Hangman.DTT.Hangman.Demo;
 
 // THE FOLLOWING SCRIPT HANDLES THE HANGMAN GAME TARGETS
 // IN V.01 THE GAME HAS TWO HANGMAN GAMES: FOR HERBS AND FOR MEDICINE
 // IT TAKES AS AN INPUT THE NAME OF THE GAMEOBJECT THE SCRIPT IS ATTACHED 
 // TO AND PERFORMS THE CORRESPONDING ACTION ACCORDING TO THAT
-namespace DTT.Hangman
+namespace Enneas.Hangman.DTT.Hangman
 {
     public class HangmanTargetController : MonoBehaviour
     {

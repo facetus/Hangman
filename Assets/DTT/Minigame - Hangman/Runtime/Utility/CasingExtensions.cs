@@ -1,6 +1,6 @@
 using System;
 
-namespace DTT.Hangman
+namespace Enneas.Hangman.DTT.Hangman
 {
     /// <summary>
     /// Provides extension methods for the letter casing enumeration.

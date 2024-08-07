@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace DTT.Hangman
+namespace Enneas.Hangman.DTT.Hangman
 {
     /// <summary>
     /// An abstract representation of a behaviour that displays a selectable letter.

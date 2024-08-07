@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace DTT.Hangman
+namespace Enneas.Hangman.DTT.Hangman
 {
     /// <summary>
     /// Represents a behaviour that controls a phrase section.

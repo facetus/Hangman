@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace DTT.Hangman
+namespace Enneas.Hangman.DTT.Hangman
 {
     /// <summary>
     /// A representation of a behaviour that displays a phrase.

@@ -1,7 +1,7 @@
 using System;
 using System.Linq;
 
-namespace DTT.Hangman
+namespace Enneas.Hangman.DTT.Hangman
 {
    /// <summary>
    /// Represents a phrase usable for a hangman game.

@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace DTT.Hangman.Demo
+namespace Enneas.Hangman.DTT.Hangman.Demo
 {
     /// <summary>
     /// Controls the scenario for the sunflower demo scene.
