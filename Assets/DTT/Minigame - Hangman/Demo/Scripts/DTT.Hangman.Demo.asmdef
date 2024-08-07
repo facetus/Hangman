@@ -1,0 +1,18 @@
+{
+    "name": "DTT.Hangman.Demo",
+    "rootNamespace": "",
+    "references": [
+        "GUID:df99d58ec9c9dbe4f910dcc8bbe05bb1",
+        "GUID:40110409d6f32d94c8a49de52995a651",
+        "GUID:812c44708a03faa4aab1410f3707ef91"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

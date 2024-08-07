@@ -1,0 +1,9 @@
+hangman.sln
+obj/
+Temp/
+Library/
+Logs/
+.collabignore
+.vs/
+.vsconfig
+Assembly-CSharp.csproj

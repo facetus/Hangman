@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 018beea489744cb184ed489b5769b508, type: 3}
+  m_Name: HangmanLevels
+  m_EditorClassIdentifier: 
+  _levelCount: 3
+  _initialUnlocks: 3
+  _saveFolderName: 948c7d91-5f9a-45de-93be-c1af22b2eace
+  _data:
+  - levelNumber: 1
+    score: 1
+    locked: 0
+  - levelNumber: 2
+    score: 1
+    locked: 0
+  - levelNumber: 3
+    score: 1
+    locked: 0
