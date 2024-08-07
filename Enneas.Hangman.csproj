@@ -9,10 +9,10 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{4B42E182-94FF-CC29-06AF-81D1367B41A0}</ProjectGuid>
+    <ProjectGuid>{0C888FF9-5478-409D-E5DD-D40D3F291D41}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <AssemblyName>DTT.EditorUtilities.Demo</AssemblyName>
+    <AssemblyName>Enneas.Hangman</AssemblyName>
     <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <BaseDirectory>.</BaseDirectory>
@@ -48,18 +48,19 @@
     <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <UnityProjectGenerator>Package</UnityProjectGenerator>
     <UnityProjectGeneratorVersion>2.0.17</UnityProjectGeneratorVersion>
-    <UnityProjectType>Editor:5</UnityProjectType>
+    <UnityProjectType>Game:1</UnityProjectType>
     <UnityBuildTarget>StandaloneWindows64:19</UnityBuildTarget>
     <UnityVersion>2021.3.17f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assets\hangman\DTT\Editor Utilities\Demo\Scripts\SettingsScriptableObject.cs" />
-    <Compile Include="Assets\hangman\DTT\Editor Utilities\Demo\Scripts\Editor\SerializedPropertyEditor.cs" />
-    <Compile Include="Assets\hangman\DTT\Editor Utilities\Demo\Scripts\Editor\GUIDisplayEditor.cs" />
-    <Compile Include="Assets\hangman\DTT\Editor Utilities\Demo\Scripts\GUIDisplayBehaviour.cs" />
+    <Compile Include="Assets\hangman\Scripts\HangmanCanvasSelector.cs" />
+    <Compile Include="Assets\hangman\Scripts\HangmanTargetController.cs" />
+    <Compile Include="Assets\hangman\Scripts\LevelSelectContainer.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\hangman\DTT\Editor Utilities\Demo\Scripts\DTT.EditorUtilities.Demo.asmdef" />
+    <None Include="Assets\hangman\Enneas.Hangman.asmdef" />
+    <None Include="Assets\hangman\words.txt" />
+    <None Include="Assets\hangman\DTT\Minigame Base\Assets\Fonts\OFL.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -733,13 +734,21 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="DTT.EditorUtilities.Editor.csproj">
-      <Project>{15F77BAE-1BB2-F19B-21AA-7A240E107ED2}</Project>
-      <Name>DTT.EditorUtilities.Editor</Name>
+    <ProjectReference Include="DTT.MinigameBase.Editor.csproj">
+      <Project>{FD6F4E9A-3637-0EE5-0CA9-9D26D6B3AC3B}</Project>
+      <Name>DTT.MinigameBase.Editor</Name>
     </ProjectReference>
-    <ProjectReference Include="DTT.RuntimeUtilities.Runtime.csproj">
-      <Project>{9FC16ED8-2788-EBE3-038C-FFFC891F596E}</Project>
-      <Name>DTT.RuntimeUtilities.Runtime</Name>
+    <ProjectReference Include="DTT.Hangman.Demo.csproj">
+      <Project>{CAE131A8-2EE6-E0B9-868B-A357C9427FB1}</Project>
+      <Name>DTT.Hangman.Demo</Name>
+    </ProjectReference>
+    <ProjectReference Include="DTT.MinigameBase.Runtime.csproj">
+      <Project>{EEA5502F-8538-1147-C1DE-31463E5407D6}</Project>
+      <Name>DTT.MinigameBase.Runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="DTT.Hangman.Runtime.csproj">
+      <Project>{FDEBB3EC-38A4-3D09-F45F-B91ADCCCDFB5}</Project>
+      <Name>DTT.Hangman.Runtime</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

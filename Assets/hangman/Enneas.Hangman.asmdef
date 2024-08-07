@@ -1,0 +1,19 @@
+{
+    "name": "Enneas.Hangman",
+    "rootNamespace": "",
+    "references": [
+        "GUID:65e70c320e6941f4bb078d1066cdf990",
+        "GUID:84db48206e2bc3848b5f72233d6aa042",
+        "GUID:40110409d6f32d94c8a49de52995a651",
+        "GUID:df99d58ec9c9dbe4f910dcc8bbe05bb1"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

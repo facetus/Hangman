@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 using DTT.MinigameBase.LevelSelect;
 using Unity.VisualScripting;
 using Enneas.Hangman.DTT.Hangman.Demo;
+using Enneas.Hangman.DTT.Hangman;
 
 // THE FOLLOWING SCRIPT HANDLES THE HANGMAN GAME TARGETS
 // IN V.01 THE GAME HAS TWO HANGMAN GAMES: FOR HERBS AND FOR MEDICINE

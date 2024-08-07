@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/DTT/Minigame Base/Assets/Scenes/_LEVEL_SELECT.unity
+    path: Assets/hangman/DTT/Minigame Base/Assets/Scenes/_LEVEL_SELECT.unity
     guid: 055f44e4cd846f246b3330bdcb789849
   m_configObjects: {}
